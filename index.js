@@ -11,7 +11,7 @@ const Config = {
     jsdelivr: 0
 }
 
-const whiteList = [] // 白名单，路径里面有包含字符的才会通过，e.g. ['/username/']
+const whiteList = ['/MetaCubeX/'] // 白名单，路径里面有包含字符的才会通过，e.g. ['/adwzlad/','/metacubexd/','/SagerNet/','/MetaCubeX/','/REIJI007/','/privacy-protection-tools/']
 
 /** @type {ResponseInit} */
 const PREFLIGHT_INIT = {
